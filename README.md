@@ -49,11 +49,13 @@ Topics covered include:
 * Handing, visualizing and finding structure in data
 * Dimensionality and Linearity
 * Adapting linear methods to nonlinear problems;
-* Kernel functions.
+* Kernel functions
+
 ### Unit 2: Probability and Statistics (1 week)
 * Probability Theory;
 * Probability Density Estimation from data
 * Statistical methods
+
 ### Unit 3: Bayesian Inference (3 weeks)
 * Introduction to Bayesian statistics
 * Stochastic Processes, Markov Chains and Markov Chain Monte Carlo

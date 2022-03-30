@@ -8,12 +8,12 @@ permalink: /
 <!-- {: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"} -->
 
 * **Course:** [PHYS 503](https://physics.illinois.edu/academics/courses/PHYS503)
-* **Instructor:** Prof. Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
+* **Instructor:** TBD
 * **Lectures:** TBD
 * **Need help?**
   * Look through and create [issues](https://github.com/illinois-ipaml/course/issues)
   * Office Hours
-    * Prof. Neubauer: TBD
+    * TBD
 
 ## <span style="color:Red">Course Description</span>
 

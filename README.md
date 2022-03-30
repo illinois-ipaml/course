@@ -17,7 +17,7 @@ permalink: /
 
 ## <span style="color:Red">Course Description</span>
 
-Welcome you to the Instrumentation Physics Applications of Machine Learning course!
+Welcome to the Instrumentation Physics Applications of Machine Learning course!
 
 This course will introduce students to the fundamentals of analysis and interpretation of scientific data, and applications of machine learning to problems common in laboratory science such as classification and regression. There will be two 75 minute classes each week, split into discussions of core principles and hands-on exercises involving coding and data. There will also be a few projects throughout semester that will build on the course material and utilize open source software and open data. The list of topics will evolve, according to the interests of the class and instructors. Material will be clustered into units of varying duration, as indicated below. The lists of suggested readings and references are advisory; a large amount of material of excellent quality is now available on the worldwide web, particularly on the sites of university courses addressing the topics of each unit.
 

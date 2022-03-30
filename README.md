@@ -59,7 +59,34 @@ Topics covered include:
 ### Unit 3: Bayesian Inference (3 weeks)
 * Introduction to Bayesian statistics
 * Stochastic Processes, Markov Chains and Markov Chain Monte Carlo
-* Variational Inference;
+* Variational Inference
+* Optimization
+* Computational Graphs and Probabilistic Programming
+* Bayesian Model selection
+* Learning in a Probabilistic context
+
+### Unit 4: Supervised Learning (1 week)
+* Supervised Learning in Scikit-Learn
+* Cross Validation
+
+### Unit 5: Learning and Inference using Artificial Neural Networks (1 week)
+* Introduction to Artificial Neural Networks
+* Types of Neural Networks
+* Loss functions
+* Backpropogation and Training
+
+### Unit 6: Deep Learning (4 weeks)
+* Convolutional Neural Networks
+* Unsupervised learning networks
+* Autoencoder networks
+* Recurrent Networks
+* Graph Networks and Graph Neural Networks
+* Deep Reinforcement Learning
+
+### Methods for accelerated machine learning and inference (1 week)
+* GPU accelerators
+* Distributed learning
+* Role hardware accelerators in ML inference
 
 Topics will be demonstrated in-class through live-code examples/slides in Juypter notebooks.
 

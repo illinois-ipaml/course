@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# <b><span style="color:blue">Data Analysis and Machine Learning Applications</span></b>
+# <b><span style="color:blue">Instrumentation Physics Applications of Machine Learning</span></b>
 ![](assets/IPAML.png)
 <!-- {: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"} -->
 

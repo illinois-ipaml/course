@@ -43,26 +43,21 @@ As a result of completing this course, students will
 
 Topics covered include:
 
-* *Notebooks and numerical python*
-* *Handling and Visualizing Data*
-* *Finding structure in data*
-* *Measuring and reducing dimensionality*
-* *Adapting linear methods to nonlinear problems*
-* *Estimating probability density*
-* *Probability theory*
-* *Statistical methods*
-* *Bayesian statistics*
-* *Markov-chain Monte Carlo in practice*
-* *Stochastic processes and Markov-chain theory*
-* *Variational inference*
-* *Optimization*
-* *Computational graphs and probabilistic programming*
-* *Bayesian model selection*
-* *Learning in a probabilistic context*
-* *Supervised learning in Scikit-Learn*
-* *Cross validation*
-* *Neural networks*
-* *Deep learning*
+### Unit 1: Data Science (3 weeks)
+* Scientific python environment
+* Notebooks and numerical python
+* Handing, visualizing and finding structure in data
+* Dimensionality and Linearity
+* Adapting linear methods to nonlinear problems;
+* Kernel functions.
+### Unit 2: Probability and Statistics (1 week)
+* Probability Theory;
+* Probability Density Estimation from data
+* Statistical methods
+### Unit 3: Bayesian Inference (3 weeks)
+* Introduction to Bayesian statistics
+* Stochastic Processes, Markov Chains and Markov Chain Monte Carlo
+* Variational Inference;
 
 Topics will be demonstrated in-class through live-code examples/slides in Juypter notebooks.
 

@@ -17,28 +17,27 @@ permalink: /
 
 ## <span style="color:Red">Course Description</span>
 
-Welcome you to the Data Analysis and Machine Learning Application (for physicists) course!
+Welcome you to the Instrumentation Physics Applications of Machine Learning course!
 
-In this course, you will learn fundamentals of how to analyze and interpret scientific data and apply modern machine learning tools and techniques to problems common in physics research such as classification and regression. This course offering is very timely given the explosion of interest and rapid development of data science and artificial intelligence. Every day there are new applications of machine learning to the physical sciences in ways that are advancing our knowledge of nature.
+This course will introduce students to the fundamentals of analysis and interpretation of scientific data, and applications of machine learning to problems common in laboratory science such as classification and regression. There will be two 75 minute classes each week, split into discussions of core principles and hands-on exercises involving coding and data. There will also be a few projects throughout semester that will build on the course material and utilize open source software and open data. The list of topics will evolve, according to the interests of the class and instructors. Material will be clustered into units of varying duration, as indicated below. The lists of suggested readings and references are advisory; a large amount of material of excellent quality is now available on the worldwide web, particularly on the sites of university courses addressing the topics of each unit.
 
-This course is designed to be interactive and collaborative, at the same time developing your own skills and knowledge. I initiated this course in 2018 from a viewpoint that we live in an increasingly data-centric world, with both people and machines learning from vast amounts of data. There has never been a time where early-career physicists such as yourself will benefit from a solid understanding in the basics of scientific data analysis, data-driven inference and machine learning, and working knowledge of the most important tools and techniques from modern data science than today.
-
-This is the third offering of the course. I welcome your feedback on any aspect of the course so that I can work to improve the curriculum.
+## <span style="color:Red">Learning Objectives</span>
+As a result of completing this course, students will
+* Understand the use of machine learning techniques including deep learning methods in the analysis of complex data sets drawn from fields that include physics, neuroscience, medicine, and agriculture.
 
 ## <span style="color:Red">Prerequisites</span>
 
 ### Courses
-* Credit or Concurrent Registration: [MATH 285](https://netmath.illinois.edu/college/math-285)
-* Credit for [PHYS 225](https://physics.illinois.edu/academics/courses/profile/PHYS225) and [PHYS 325](https://physics.illinois.edu/academics/courses/profile/PHYS325)
+*  
 
 ### Hardware
 * You need a laptop for this course. It is assumed that you have a laptop running MacOS, Linux or Windows for use both inside and outside of the class.
 
 ### Software
-* Some knowledge of python preferred but is not required. You do need to have a working knowledge of the basics of computer programming.
+* Some knowledge of of the Python is preferred but is not required. You do need to have a working knowledge of the basics of computer programming.
 
 ### Setting up
-* The course lecture workbooks and assessments will be hoste in [Prairelearn](https://www.prairielearn.org/pl/course_instance/129081) using their workspaces feature. This provides all you will need to interact with the course notebooks. You also have the option to run the Docker container for the course environment locally, which would provide faster response than the PL Workspace since the course container is rather large. See instructions for use of the PHYS398MLA Docker container at [here](https://github.com/illinois-mla/phys-398-mla-image). 
+* 
 
 ## <span style="color:Red">Course Overview</span>
 

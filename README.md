@@ -4,19 +4,16 @@ permalink: /
 ---
 
 # <b><span style="color:blue">Data Analysis and Machine Learning Applications</span></b>
-![](assets/pynstein.jpg)
+![](assets/IPAML.png)
 <!-- {: style="width: 550px; float: center; margin: 30px 0 30px 0; border: 10px"} -->
 
-* **Course:** [PHYS 398MLA](https://physics.illinois.edu/academics/courses/PHYS398MLA)
+* **Course:** [PHYS 503](https://physics.illinois.edu/academics/courses/PHYS503)
 * **Instructor:** Prof. Mark Neubauer, [msn@illinois.edu](mailto:msn@illinois.edu)
-* **Lectures:** Mondays from 3-4:50 pm in 222 Loomis Laboratory of Physics
+* **Lectures:** TBD
 * **Need help?**
-  * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/illinois-mla/ChatRoom-Spring2022)
-    * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around. 
-    * Please do not post messages that give away answers to homework problems since posts are viewable by all students enrolled in the course. 
-  * Look through and create [issues](https://github.com/illinois-mla/syllabus/issues)
+  * Look through and create [issues](https://github.com/illinois-ipaml/course/issues)
   * Office Hours
-    * Prof. Neubauer: Thursdays from 4-5 pm over [Zoom](https://illinois.zoom.us/j/82093271789?pwd=alVJNndDak12b0J1dWNqNkpDWGdVUT09)
+    * Prof. Neubauer: TBD
 
 ## <span style="color:Red">Course Description</span>
 
